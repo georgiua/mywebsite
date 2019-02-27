@@ -28,6 +28,12 @@ top-left {
   padding: 10px;
 }
 
+top-center {
+  padding: 25px;
+  font-size:35px;
+  font-style: italic;
+}
+
 bottom-left {
   text-align: center;
   font-size: 25px;
